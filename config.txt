@@ -1,0 +1,8 @@
+beta=36028797018963967    
+lambda=12
+r=2047
+seed=223
+n=2
+file_size=1048576
+bulk_size=8
+num_maps=8
